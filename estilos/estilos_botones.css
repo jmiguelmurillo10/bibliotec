@@ -1,0 +1,47 @@
+.boton {
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 8px; /*espacio alrededor texto*/
+    background-color: #5390bd; /*color botón*/
+    color: #FFFFFF; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Calibri', sans-serif; /*tipografía texto*/
+    border-radius: 6px; /*bordes redondos*/
+    }
+    .boton:hover{
+        color: #1883ba;
+        background-color: #ffffff;
+        font-family: 'Calibri', sans-serif; /*tipografía texto*/
+        cursor: default;
+    }		
+
+    .boton_Opciones {
+        border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+        padding: 8px; /*espacio alrededor texto*/
+        background-color: #5390bd; /*color botón*/
+        color: #FFFFFF; /*color texto*/
+        text-decoration: none; /*decoración texto*/
+        text-transform: uppercase; /*capitalización texto*/
+        font-family: 'Calibri', sans-serif; /*tipografía texto*/
+        border-radius: 6px; /*bordes redondos*/
+        }
+        .boton_Opciones:hover{
+            color: #1883ba;
+            background-color: #ffffff;
+            font-family: 'Calibri', sans-serif; /*tipografía texto*/
+            cursor: default;
+        }	
+        
+    
+    .header_mod {
+    background-color:#5390BD;
+    color:#fff;
+    /* text-transform:uppercase; */
+    text-align:center;
+    font-weight:bold;
+    height:25px;
+    vertical-align:middle;
+    padding: 10px;
+    font-size:25px;
+    font-family:'Times New Roman';
+    }

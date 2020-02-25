@@ -1,0 +1,20 @@
+.header_mod2 {
+		background-color:#5390BD;
+		color:#fff;
+		/* text-transform:uppercase; */
+		text-align:center;
+		font-weight:bold;
+		height:20px;
+		vertical-align:middle;
+		padding: 10px;
+		font-size:15px;
+		font-family:Calibri;
+}
+.cabeceraTabla_mod2 {
+	background-color:#ffffff;
+	color:grey;
+	font-weight:bold;
+	text-align:center;
+	left: -2;
+	/* text-transform:uppercase; */
+}

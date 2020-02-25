@@ -1,0 +1,12 @@
+.header_mod2 {
+		background-color:#5390BD;
+		color:#fff;
+		/* text-transform:uppercase; */
+		text-align:center;
+		font-weight:bold;
+		height:25px;
+		vertical-align:middle;
+		padding: 10px;
+		font-size:25px;
+		font-family:'Times New Roman';
+}

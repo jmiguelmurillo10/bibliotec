@@ -1,0 +1,50 @@
+
+body {
+    margin: 0;
+    /*background-color:#006666;
+    background-color:#3D935E;*/
+    background-color:#F3F3F3;
+}
+.caja_texto{width:250px;}
+
+.contacto{
+  
+  background-color:#009888;
+  /*
+  background-color:#2ECC71;
+  
+  /*background:-moz-linear-gradient(45deg,#0099cc,#ffffff 450px);*/
+  color:white;
+  width:290px;
+  height: 0px;
+  border-radius:6px;
+  text-align:left;
+  text-indent:0.4cm;
+  font-size:0.9em;
+  position:absolute;
+  margin-top:60px;
+  margin-right:50px;
+  margin-left:540px;
+  margin-bottom:500px;
+  padding-top:70;
+  padding-bottom:70;
+  border:inset 0px;
+  border-color: red;
+
+
+  }
+.trans{
+  opacity:0.8;
+}
+#enviar1{background-color:#787878;font-size:0.7em; width:150; height:20px;color:white;height: 35px;}
+#enviar1:hover{background-color:#ffffff;color:black;}
+.estilo1{text-decoration:none;color: white;}
+.estilo1:hover{color:blue;}
+
+/*.fondoSesion{background-color:#2ECC71; color: white;position: fixed; font-size: 0.9em; }
+.cerrarSesion{text-decoration:none; font-size: 0.9em; }
+*/
+.fondoSesion{background-color:black; color: white;position: fixed; font-size: 0.9em; }
+#cerrarSesion2{color: white;}
+.cerrarSesion{text-decoration:none; font-size: 0.9em; }
+#cerrarSesion2:hover {color:yellow;}
